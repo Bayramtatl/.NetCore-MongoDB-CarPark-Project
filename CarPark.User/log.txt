@@ -1,0 +1,372 @@
+2023-02-14 18:11:26.844 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-14 18:11:27.204 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-14 18:11:27.205 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-14 18:11:27.206 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-14 18:11:27.207 +03:00 [INF] Hosting environment: Development
+2023-02-14 18:11:27.208 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-14 18:11:27.832 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-14 18:11:27.862 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 18:11:27.888 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-14 18:11:27.891 +03:00 [INF] Bu ilk logum
+2023-02-14 18:11:27.901 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-14 18:11:27.986 +03:00 [INF] Executed ViewResult - view Index executed in 86.4248ms.
+2023-02-14 18:11:27.990 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 100.4859ms
+2023-02-14 18:11:27.991 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 18:11:28.003 +03:00 [INF] Request finished in 173.4175ms 200 text/html; charset=utf-8
+2023-02-14 18:11:28.042 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-14 18:11:28.045 +03:00 [INF] Request finished in 2.953ms 200 application/javascript; charset=utf-8
+2023-02-14 18:11:28.066 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-14 18:11:28.076 +03:00 [INF] Request finished in 10.4068ms 200 text/javascript; charset=UTF-8
+2023-02-14 22:14:40.247 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-14 22:14:40.574 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-14 22:14:40.575 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-14 22:14:40.575 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-14 22:14:40.576 +03:00 [INF] Hosting environment: Development
+2023-02-14 22:14:40.576 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-14 22:14:40.960 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-14 22:14:40.991 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:14:41.020 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-14 22:14:41.022 +03:00 [INF] Bu ilk logum
+2023-02-14 22:14:41.033 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-14 22:14:41.128 +03:00 [INF] Executed ViewResult - view Index executed in 96.8869ms.
+2023-02-14 22:14:41.131 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 110.5955ms
+2023-02-14 22:14:41.132 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:14:41.152 +03:00 [INF] Request finished in 194.5718ms 200 text/html; charset=utf-8
+2023-02-14 22:14:41.185 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-14 22:14:41.186 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2023-02-14 22:14:41.185 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2023-02-14 22:14:41.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2023-02-14 22:14:41.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2023-02-14 22:14:41.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2023-02-14 22:14:41.190 +03:00 [INF] Request finished in 5.2479ms 200 application/javascript; charset=utf-8
+2023-02-14 22:14:41.191 +03:00 [INF] The file /css/site.css was not modified
+2023-02-14 22:14:41.191 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2023-02-14 22:14:41.192 +03:00 [INF] The file /js/site.js was not modified
+2023-02-14 22:14:41.193 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2023-02-14 22:14:41.193 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2023-02-14 22:14:41.194 +03:00 [INF] Request finished in 8.4172ms 304 text/css
+2023-02-14 22:14:41.194 +03:00 [INF] Request finished in 9.328ms 304 text/css
+2023-02-14 22:14:41.195 +03:00 [INF] Request finished in 7.6288ms 304 application/javascript
+2023-02-14 22:14:41.196 +03:00 [INF] Request finished in 8.5373ms 304 application/javascript
+2023-02-14 22:14:41.198 +03:00 [INF] Request finished in 10.3948ms 304 application/javascript
+2023-02-14 22:14:41.205 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-14 22:14:41.243 +03:00 [INF] Request finished in 37.7849ms 200 text/javascript; charset=UTF-8
+2023-02-14 22:16:41.821 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-14 22:16:42.165 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-14 22:16:42.166 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-14 22:16:42.167 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-14 22:16:42.168 +03:00 [INF] Hosting environment: Development
+2023-02-14 22:16:42.168 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-14 22:16:42.731 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-14 22:16:42.760 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:16:42.786 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-14 22:16:42.788 +03:00 [INF] Bu ilk logum
+2023-02-14 22:16:42.799 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-14 22:16:42.878 +03:00 [INF] Executed ViewResult - view Index executed in 79.9362ms.
+2023-02-14 22:16:42.881 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 94.0653ms
+2023-02-14 22:16:42.882 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:16:42.901 +03:00 [INF] Request finished in 172.2553ms 200 text/html; charset=utf-8
+2023-02-14 22:16:42.928 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-14 22:16:42.931 +03:00 [INF] Request finished in 2.7594ms 200 application/javascript; charset=utf-8
+2023-02-14 22:16:42.947 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-14 22:16:42.958 +03:00 [INF] Request finished in 11.1657ms 200 text/javascript; charset=UTF-8
+2023-02-14 22:20:50.953 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-14 22:20:51.446 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-14 22:20:51.447 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-14 22:20:51.448 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-14 22:20:51.450 +03:00 [INF] Hosting environment: Development
+2023-02-14 22:20:51.451 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-14 22:20:51.992 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-14 22:20:52.035 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:20:52.065 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-14 22:20:52.070 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-14 22:20:52.087 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-14 22:20:52.165 +03:00 [INF] Executed ViewResult - view Index executed in 80.4298ms.
+2023-02-14 22:20:52.169 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 102.4635ms
+2023-02-14 22:20:52.169 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:20:52.181 +03:00 [INF] Request finished in 192.2476ms 200 text/html; charset=utf-8
+2023-02-14 22:20:52.213 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-14 22:20:52.216 +03:00 [INF] Request finished in 3.7409ms 200 application/javascript; charset=utf-8
+2023-02-14 22:20:52.227 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-14 22:20:52.240 +03:00 [INF] Request finished in 12.9824ms 200 text/javascript; charset=UTF-8
+2023-02-14 22:25:32.335 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-14 22:25:32.673 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-14 22:25:32.674 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-14 22:25:32.675 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-14 22:25:32.675 +03:00 [INF] Hosting environment: Development
+2023-02-14 22:25:32.676 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-14 22:25:33.061 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-14 22:25:33.089 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:25:33.116 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-14 22:25:33.120 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-14 22:25:33.134 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-14 22:25:33.207 +03:00 [INF] Executed ViewResult - view Index executed in 74.9718ms.
+2023-02-14 22:25:33.210 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 93.8827ms
+2023-02-14 22:25:33.211 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:25:33.224 +03:00 [INF] Request finished in 165.6252ms 200 text/html; charset=utf-8
+2023-02-14 22:25:33.258 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-14 22:25:33.261 +03:00 [INF] Request finished in 2.5582ms 200 application/javascript; charset=utf-8
+2023-02-14 22:25:33.278 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-14 22:25:33.291 +03:00 [INF] Request finished in 13.1452ms 200 text/javascript; charset=UTF-8
+2023-02-14 22:29:14.805 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-14 22:29:15.094 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-14 22:29:15.095 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-14 22:29:15.095 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-14 22:29:15.096 +03:00 [INF] Hosting environment: Development
+2023-02-14 22:29:15.096 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-14 22:29:15.735 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-14 22:29:15.765 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:29:15.793 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-14 22:29:15.798 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-14 22:29:15.814 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-14 22:29:15.913 +03:00 [INF] Executed ViewResult - view Index executed in 101.2603ms.
+2023-02-14 22:29:15.917 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 121.795ms
+2023-02-14 22:29:15.917 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-14 22:29:15.930 +03:00 [INF] Request finished in 197.4004ms 200 text/html; charset=utf-8
+2023-02-14 22:29:15.977 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-14 22:29:15.980 +03:00 [INF] Request finished in 2.7035ms 200 application/javascript; charset=utf-8
+2023-02-14 22:29:15.995 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-14 22:29:16.009 +03:00 [INF] Request finished in 13.6718ms 200 text/javascript; charset=UTF-8
+2023-02-15 21:24:18.664 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-15 21:24:19.095 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-15 21:24:19.096 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-15 21:24:19.097 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-15 21:24:19.097 +03:00 [INF] Hosting environment: Development
+2023-02-15 21:24:19.098 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-15 21:24:19.773 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-15 21:24:19.835 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-15 21:24:19.893 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-16 15:52:24.051 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-16 15:52:24.512 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-16 15:52:24.513 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-16 15:52:24.514 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-16 15:52:24.514 +03:00 [INF] Hosting environment: Development
+2023-02-16 15:52:24.515 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-16 15:52:25.173 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-16 15:52:25.229 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 15:52:25.281 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-16 15:52:25.294 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-16 15:52:25.314 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-16 15:52:25.444 +03:00 [INF] Executed ViewResult - view Index executed in 134.2689ms.
+2023-02-16 15:52:25.448 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 165.5804ms
+2023-02-16 15:52:25.449 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 15:52:25.481 +03:00 [INF] Request finished in 310.8426ms 200 text/html; charset=utf-8
+2023-02-16 15:52:25.530 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js  
+2023-02-16 15:52:25.530 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css  
+2023-02-16 15:52:25.530 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/css/site.css  
+2023-02-16 15:52:25.536 +03:00 [INF] The file /css/site.css was not modified
+2023-02-16 15:52:25.536 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2023-02-16 15:52:25.536 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2023-02-16 15:52:25.537 +03:00 [INF] Request finished in 6.8818ms 304 text/css
+2023-02-16 15:52:25.537 +03:00 [INF] Request finished in 7.2005ms 304 application/javascript
+2023-02-16 15:52:25.538 +03:00 [INF] Request finished in 8.1818ms 304 text/css
+2023-02-16 15:52:25.567 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js  
+2023-02-16 15:52:25.569 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2023-02-16 15:52:25.569 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0  
+2023-02-16 15:52:25.569 +03:00 [INF] Request finished in 2.0678ms 304 application/javascript
+2023-02-16 15:52:25.570 +03:00 [INF] The file /js/site.js was not modified
+2023-02-16 15:52:25.572 +03:00 [INF] Request finished in 3.312ms 304 application/javascript
+2023-02-16 15:52:25.577 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 15:52:25.580 +03:00 [INF] Request finished in 3.3168ms 200 application/javascript; charset=utf-8
+2023-02-16 15:52:25.587 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 15:52:25.651 +03:00 [INF] Request finished in 63.8356ms 200 text/javascript; charset=UTF-8
+2023-02-16 15:52:33.408 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/index  
+2023-02-16 15:52:33.413 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Index (CarPark.User)'
+2023-02-16 15:52:33.415 +03:00 [INF] Route matched with {action = "Index", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 15:59:38.548 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-16 15:59:38.827 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-16 15:59:38.827 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-16 15:59:38.828 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-16 15:59:38.828 +03:00 [INF] Hosting environment: Development
+2023-02-16 15:59:38.829 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-16 15:59:39.197 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-16 15:59:39.229 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 15:59:39.255 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-16 15:59:39.266 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-16 15:59:39.280 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-16 15:59:39.360 +03:00 [INF] Executed ViewResult - view Index executed in 82.6383ms.
+2023-02-16 15:59:39.364 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 107.4944ms
+2023-02-16 15:59:39.364 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 15:59:39.377 +03:00 [INF] Request finished in 182.0429ms 200 text/html; charset=utf-8
+2023-02-16 15:59:39.409 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 15:59:39.412 +03:00 [INF] Request finished in 3.2728ms 200 application/javascript; charset=utf-8
+2023-02-16 15:59:39.440 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 15:59:39.454 +03:00 [INF] Request finished in 14.2118ms 200 text/javascript; charset=UTF-8
+2023-02-16 15:59:45.327 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create  
+2023-02-16 15:59:45.333 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 15:59:45.335 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 15:59:45.337 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 15:59:45.370 +03:00 [INF] Executed ViewResult - view Create executed in 33.9572ms.
+2023-02-16 15:59:45.371 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 35.0244ms
+2023-02-16 15:59:45.371 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 15:59:45.373 +03:00 [INF] Request finished in 46.2656ms 200 text/html; charset=utf-8
+2023-02-16 15:59:45.412 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery-validation/dist/jquery.validate.min.js  
+2023-02-16 15:59:45.413 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 15:59:45.412 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 15:59:45.412 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js  
+2023-02-16 15:59:45.415 +03:00 [INF] Request finished in 2.7534ms 200 application/javascript; charset=utf-8
+2023-02-16 15:59:45.428 +03:00 [INF] Request finished in 15.6735ms 200 text/javascript; charset=UTF-8
+2023-02-16 15:59:45.442 +03:00 [INF] Sending file. Request path: '/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js'
+2023-02-16 15:59:45.442 +03:00 [INF] Sending file. Request path: '/lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js'
+2023-02-16 15:59:45.443 +03:00 [INF] Request finished in 30.2015ms 200 application/javascript
+2023-02-16 15:59:45.444 +03:00 [INF] Request finished in 31.205ms 200 application/javascript
+2023-02-16 16:06:46.763 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-16 16:06:47.027 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-16 16:06:47.028 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-16 16:06:47.028 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-16 16:06:47.028 +03:00 [INF] Hosting environment: Development
+2023-02-16 16:06:47.029 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-16 16:06:47.412 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-16 16:06:47.449 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:06:47.475 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-16 16:06:47.486 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-16 16:06:47.501 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-16 16:06:47.580 +03:00 [INF] Executed ViewResult - view Index executed in 80.8435ms.
+2023-02-16 16:06:47.583 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 106.9874ms
+2023-02-16 16:06:47.584 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:06:47.596 +03:00 [INF] Request finished in 185.8244ms 200 text/html; charset=utf-8
+2023-02-16 16:06:47.629 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:06:47.633 +03:00 [INF] Request finished in 3.4973ms 200 application/javascript; charset=utf-8
+2023-02-16 16:06:47.636 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:06:47.646 +03:00 [INF] Request finished in 9.8088ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:06:53.055 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create  
+2023-02-16 16:06:53.060 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:06:53.061 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 16:06:53.063 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 16:06:53.093 +03:00 [INF] Executed ViewResult - view Create executed in 30.8632ms.
+2023-02-16 16:06:53.094 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 31.9565ms
+2023-02-16 16:06:53.095 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:06:53.096 +03:00 [INF] Request finished in 41.4339ms 200 text/html; charset=utf-8
+2023-02-16 16:06:53.135 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:06:53.137 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:06:53.137 +03:00 [INF] Request finished in 2.8768ms 200 application/javascript; charset=utf-8
+2023-02-16 16:06:53.144 +03:00 [INF] Request finished in 6.9708ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:07:58.863 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-16 16:07:59.144 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-16 16:07:59.144 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-16 16:07:59.145 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-16 16:07:59.145 +03:00 [INF] Hosting environment: Development
+2023-02-16 16:07:59.146 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-16 16:07:59.566 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-16 16:07:59.603 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:07:59.634 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-16 16:07:59.646 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-16 16:07:59.657 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-16 16:07:59.740 +03:00 [INF] Executed ViewResult - view Index executed in 85.5191ms.
+2023-02-16 16:07:59.743 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 108.0454ms
+2023-02-16 16:07:59.744 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:07:59.756 +03:00 [INF] Request finished in 192.629ms 200 text/html; charset=utf-8
+2023-02-16 16:07:59.789 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:07:59.792 +03:00 [INF] Request finished in 3.5806ms 200 application/javascript; charset=utf-8
+2023-02-16 16:07:59.799 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:07:59.808 +03:00 [INF] Request finished in 9.7955ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:08:05.000 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create  
+2023-02-16 16:08:05.004 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:08:05.006 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 16:08:05.007 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 16:08:05.040 +03:00 [INF] Executed ViewResult - view Create executed in 32.7212ms.
+2023-02-16 16:08:05.040 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 33.7877ms
+2023-02-16 16:08:05.041 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:08:05.042 +03:00 [INF] Request finished in 42.2766ms 200 text/html; charset=utf-8
+2023-02-16 16:08:05.075 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:08:05.076 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:08:05.092 +03:00 [INF] Request finished in 16.8286ms 200 application/javascript; charset=utf-8
+2023-02-16 16:08:05.103 +03:00 [INF] Request finished in 26.3288ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:10:43.665 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create?cullture=en  
+2023-02-16 16:10:43.668 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:10:43.669 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 16:10:43.671 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 16:10:43.680 +03:00 [INF] Executed ViewResult - view Create executed in 9.5974ms.
+2023-02-16 16:10:43.681 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 10.7876ms
+2023-02-16 16:10:43.682 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:10:43.685 +03:00 [INF] Request finished in 20.8473ms 200 text/html; charset=utf-8
+2023-02-16 16:10:43.727 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:10:43.727 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:10:43.732 +03:00 [INF] Request finished in 5.3652ms 200 application/javascript; charset=utf-8
+2023-02-16 16:10:43.748 +03:00 [INF] Request finished in 21.0741ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:10:55.544 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create?culture=en-US  
+2023-02-16 16:10:55.547 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:10:55.548 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 16:10:55.550 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 16:10:55.563 +03:00 [INF] Executed ViewResult - view Create executed in 12.2847ms.
+2023-02-16 16:10:55.563 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 13.4101ms
+2023-02-16 16:10:55.564 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:10:55.566 +03:00 [INF] Request finished in 21.9004ms 200 text/html; charset=utf-8
+2023-02-16 16:10:55.603 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:10:55.604 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:10:55.605 +03:00 [INF] Request finished in 2.247ms 200 application/javascript; charset=utf-8
+2023-02-16 16:10:55.615 +03:00 [INF] Request finished in 11.3217ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:16:07.215 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-16 16:16:07.563 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-16 16:16:07.564 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-16 16:16:07.564 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-16 16:16:07.564 +03:00 [INF] Hosting environment: Development
+2023-02-16 16:16:07.565 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-16 16:16:08.062 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-16 16:16:08.099 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:16:08.129 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-16 16:16:08.139 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-16 16:16:08.149 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-16 16:16:08.223 +03:00 [INF] Executed ViewResult - view Index executed in 76.4012ms.
+2023-02-16 16:16:08.226 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 96.3309ms
+2023-02-16 16:16:08.227 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:16:08.241 +03:00 [INF] Request finished in 181.0016ms 200 text/html; charset=utf-8
+2023-02-16 16:16:08.273 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:16:08.275 +03:00 [INF] Request finished in 2.6132ms 200 application/javascript; charset=utf-8
+2023-02-16 16:16:08.284 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:16:08.297 +03:00 [INF] Request finished in 13.6033ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:16:12.491 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create  
+2023-02-16 16:16:12.496 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:16:12.498 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 16:16:12.500 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 16:16:12.531 +03:00 [INF] Executed ViewResult - view Create executed in 31.5668ms.
+2023-02-16 16:16:12.532 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 33.1323ms
+2023-02-16 16:16:12.533 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:16:12.534 +03:00 [INF] Request finished in 43.3131ms 200 text/html; charset=utf-8
+2023-02-16 16:16:12.573 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:16:12.574 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:16:12.574 +03:00 [INF] Request finished in 1.3964ms 200 application/javascript; charset=utf-8
+2023-02-16 16:16:12.583 +03:00 [INF] Request finished in 9.0901ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:16:58.719 +03:00 [INF] User profile is available. Using 'C:\Users\Bayram\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-02-16 16:16:59.037 +03:00 [INF] Now listening on: https://localhost:5001
+2023-02-16 16:16:59.038 +03:00 [INF] Now listening on: http://localhost:5000
+2023-02-16 16:16:59.039 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-16 16:16:59.039 +03:00 [INF] Hosting environment: Development
+2023-02-16 16:16:59.040 +03:00 [INF] Content root path: C:\Users\Bayram\Desktop\yazilim\Web\Asp.NetCoreMvc\CarPark\CarPark.User
+2023-02-16 16:16:59.658 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/  
+2023-02-16 16:16:59.694 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:16:59.724 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.User.Controllers.HomeController (CarPark.User).
+2023-02-16 16:16:59.735 +03:00 [ERR] Customerda bir hata oluştu {"Id":1,"NameSurname":"Bayram Tatlı","Age":22,"$type":"Customer"}
+2023-02-16 16:16:59.745 +03:00 [INF] Executing ViewResult, running view Index.
+2023-02-16 16:16:59.819 +03:00 [INF] Executed ViewResult - view Index executed in 76.1591ms.
+2023-02-16 16:16:59.822 +03:00 [INF] Executed action CarPark.User.Controllers.HomeController.Index (CarPark.User) in 97.0939ms
+2023-02-16 16:16:59.823 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.HomeController.Index (CarPark.User)'
+2023-02-16 16:16:59.837 +03:00 [INF] Request finished in 180.9685ms 200 text/html; charset=utf-8
+2023-02-16 16:16:59.868 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:16:59.871 +03:00 [INF] Request finished in 3.1824ms 200 application/javascript; charset=utf-8
+2023-02-16 16:16:59.880 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:16:59.890 +03:00 [INF] Request finished in 9.9419ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:17:02.847 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create  
+2023-02-16 16:17:02.851 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:17:02.853 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 16:17:02.856 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 16:17:02.888 +03:00 [INF] Executed ViewResult - view Create executed in 33.0001ms.
+2023-02-16 16:17:02.889 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 34.8125ms
+2023-02-16 16:17:02.890 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:17:02.891 +03:00 [INF] Request finished in 44.4174ms 200 text/html; charset=utf-8
+2023-02-16 16:17:02.918 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:17:02.918 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:17:02.919 +03:00 [INF] Request finished in 0.9878ms 200 application/javascript; charset=utf-8
+2023-02-16 16:17:02.926 +03:00 [INF] Request finished in 8.1685ms 200 text/javascript; charset=UTF-8
+2023-02-16 16:17:03.829 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/user/create  
+2023-02-16 16:17:03.831 +03:00 [INF] Executing endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:17:03.832 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.User.Controllers.UserController (CarPark.User).
+2023-02-16 16:17:03.833 +03:00 [INF] Executing ViewResult, running view Create.
+2023-02-16 16:17:03.838 +03:00 [INF] Executed ViewResult - view Create executed in 4.9702ms.
+2023-02-16 16:17:03.839 +03:00 [INF] Executed action CarPark.User.Controllers.UserController.Create (CarPark.User) in 5.8503ms
+2023-02-16 16:17:03.839 +03:00 [INF] Executed endpoint 'CarPark.User.Controllers.UserController.Create (CarPark.User)'
+2023-02-16 16:17:03.841 +03:00 [INF] Request finished in 12.501ms 200 text/html; charset=utf-8
+2023-02-16 16:17:03.878 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js  
+2023-02-16 16:17:03.879 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5001/_vs/browserLink  
+2023-02-16 16:17:03.879 +03:00 [INF] Request finished in 1.1115ms 200 application/javascript; charset=utf-8
+2023-02-16 16:17:03.884 +03:00 [INF] Request finished in 5.0692ms 200 text/javascript; charset=UTF-8
